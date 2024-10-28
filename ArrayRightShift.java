@@ -1,5 +1,3 @@
-package org.hrmx.newjp;
-
 public class ArrayRightShift {
 
 	public static void main(String[] args) {
